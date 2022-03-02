@@ -1,0 +1,22 @@
+*{
+    background: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode: color;
+}
+h1{
+    color: rgba(0, 0, 0, 0.796);
+    text-align: center;
+    position: relative;
+    left: -5px;
+}
+body{
+    width: auto;
+}
+p{
+    text-align: center;
+    font-weight: 800;
+    font-style: bold;
+    color: rgb(0, 0, 255);
+}
