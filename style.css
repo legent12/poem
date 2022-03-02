@@ -20,3 +20,6 @@ p{
     font-style: bold;
     color: rgb(0, 0, 255);
 }
+html {
+  scroll-behavior: smooth;
+}
